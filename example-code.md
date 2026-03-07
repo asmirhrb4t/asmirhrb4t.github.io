@@ -3,7 +3,9 @@ layout: default
 title: WordPress Installation Example
 nav_order: 4
 ---
+[Home](index) | [Web Development Basics](web-basics) | [How the Internet Works](how-the-internet-works) | [WordPress Installation](example-code)
 
+---
 # Installing WordPress on a Linux Server
 
 A common way to create websites is by using a Content Management System (CMS).
