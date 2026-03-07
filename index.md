@@ -1,6 +1,7 @@
 ---
 layout: default
-title: How Websites Work
+title: Home
+nav_order: 1
 ---
 
 # How Websites Work
