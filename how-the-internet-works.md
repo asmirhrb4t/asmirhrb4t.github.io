@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How the Internet Works
+nav_order: 3
 ---
 
 # How the Internet Works
