@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Web Development Basics
+nav_order: 2
 ---
 
 # Web Development Basics
