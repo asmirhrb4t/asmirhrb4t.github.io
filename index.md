@@ -3,7 +3,9 @@ layout: default
 title: Home
 nav_order: 1
 ---
+[Home](index) | [Web Development Basics](web-basics) | [How the Internet Works](how-the-internet-works) | [WordPress Installation](example-code)
 
+---
 # How Websites Work
 
 This website explains how modern websites are created and delivered on the internet.
