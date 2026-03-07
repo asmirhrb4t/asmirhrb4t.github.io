@@ -3,7 +3,9 @@ layout: default
 title: How the Internet Works
 nav_order: 3
 ---
+[Home](index) | [Web Development Basics](web-basics) | [How the Internet Works](how-the-internet-works) | [WordPress Installation](example-code)
 
+---
 # How the Internet Works
 
 When a user visits a website, several processes happen in the background between the browser and a web server.
