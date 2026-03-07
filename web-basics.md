@@ -3,7 +3,9 @@ layout: default
 title: Web Development Basics
 nav_order: 2
 ---
+[Home](index) | [Web Development Basics](web-basics) | [How the Internet Works](how-the-internet-works) | [WordPress Installation](example-code)
 
+---
 # Web Development Basics
 
 Modern websites are built using several core technologies.
