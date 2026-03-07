@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: How Websites Work
 nav_order: 1
 ---
 [Home](index) | [Web Development Basics](web-basics) | [How the Internet Works](how-the-internet-works) | [WordPress Installation](example-code)
