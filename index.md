@@ -17,6 +17,9 @@ The topics covered include:
 - content management systems
 - how browsers communicate with web servers
 
+## Browser Server Communication
+![Browser Server Communication](images/web-request.png)
+
 ## Pages
 
 - [Web Development Basics](web-basics.html)
