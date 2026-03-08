@@ -19,6 +19,7 @@ The topics covered include:
 
 ## Browser Server Communication
 ![Browser Server Communication](images/web-request.png)
+Source: [ByteByteGo](https://bytebytego.com/guides/what-happens-when-you-type-google/)
 
 ## Pages
 
