@@ -12,7 +12,7 @@ This website explains how modern websites are created and delivered on the inter
 
 The topics covered include:
 
-- web development basics
+- web development basics 
 - static site generators
 - content management systems
 - how browsers communicate with web servers
